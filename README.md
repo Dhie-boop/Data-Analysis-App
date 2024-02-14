@@ -20,6 +20,8 @@ How to Use:
    
    ```pip install -r requirements.txt```
 
+
+# If you find this project useful please let's help each other to grow and share knowledge by forking it to your github and star it and follow me and I follow you back.
   
 3. Run the App:
 Once the dependencies are installed, run the Streamlit app:
