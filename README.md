@@ -20,8 +20,6 @@ How to Use:
    
    ```pip install -r requirements.txt```
 
-
-# If you find this project useful please let's help each other to grow and share knowledge by forking it to your github and star it and follow me and I follow you back.
   
 3. Run the App:
 Once the dependencies are installed, run the Streamlit app:
@@ -30,3 +28,6 @@ Once the dependencies are installed, run the Streamlit app:
 
 4. Access the App:
 Open your web browser and go to http://localhost:8501 to access the Data Analysis App.
+
+
+# If you find this project useful please let's help each other to grow and share knowledge by forking it to your github and star it and follow me and I follow you back.
