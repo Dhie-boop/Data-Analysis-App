@@ -15,7 +15,10 @@ How to Use:
    Navigate to the project directory and install the necessary Python packages using pip:
    ```cd data-analysis-app```
    
-  ```pip install -r requirements.txt```
+   Create your own virtual environment
+   then:
+   
+   ```pip install -r requirements.txt```
 
   
 3. Run the App:
