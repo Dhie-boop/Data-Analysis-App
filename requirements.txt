@@ -52,4 +52,4 @@ tzlocal==5.2
 urllib3==2.6.3
 validators==0.22.0
 watchdog==4.0.0
-zipp==3.17.0
+zipp==3.19.1
